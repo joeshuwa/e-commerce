@@ -89,9 +89,9 @@ smallUnit.forEach((e, index)=>{
         lightbox.style.display = "none";
     });
 
-    lightbox.addEventListener("click", () => {
+   /* lightbox.addEventListener("click", () => {
         lightbox.style.display = "none";
-    });
+    });*/
 
 // || ADDITION AND SUBTRACTION OF PRODUCT ITEM IN CART
     add.addEventListener("click", ()=>{
